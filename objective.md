@@ -4,7 +4,7 @@
 This project provides a user interface for calculating profit and loss based on cost price, selling price, and quantity of a transaction. It includes features for real-time calculation, transaction history tracking, summary of total profit/loss and overall percentage, a dark/light mode toggle, and the ability to generate and download a CSV report of all transactions. The project also retrieves and displays product data from an external API. Technologies used include HTML, CSS, JavaScript, and Font Awesome for icons.
 
 ## Output
-<iframe src="https://github.com/niat-web/Profit_Loss_Calculator" height="1000" width="300" title="Profit_Loss_Calculator"></iframe>
+<iframe src="https://niat-web.github.io/Profit_Loss_Calculator/" height="1000" width="300" title="Profit_Loss_Calculator"></iframe>
 
 ## Project Requirements
 **Technologies:** HTML, CSS, JavaScript, Font Awesome, [allorigins.win API (proxy)]
