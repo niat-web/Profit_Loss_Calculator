@@ -25,6 +25,9 @@
     --card-bg-color: var(--dark-card-bg-color);
     --shadow-color: var(--dark-shadow-color);
 }
+[data-theme="dark"] .card-title {
+    color: var(--text-color); /* White text in dark mode */
+  }
 
 body {
     font-family: 'Arial', sans-serif;
